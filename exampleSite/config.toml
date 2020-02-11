@@ -47,7 +47,7 @@ name = "Contact"
 weight = 7
 [params]
 author = "Jacob Simmonds"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = ""
 google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = false
