@@ -46,11 +46,11 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
+author = "Jacob Simmonds"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analitycs_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -90,10 +90,10 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = ""
+link = "https://www.instagram.com/jacob.simmonds/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/JacobSimmonds3"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/jacob-simmonds/"
